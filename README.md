@@ -1,7 +1,3 @@
-### GitHub Repository Description:
-
----
-
 **JavaScript Data Structures Implementation**
 
 This repository contains implementations of various data structures in JavaScript, aiming to deepen understanding and provide practical examples for learning. Each data structure is implemented with clear explanations and usage examples, making it suitable for educational purposes and practical applications.
